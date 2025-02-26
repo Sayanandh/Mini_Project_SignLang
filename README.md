@@ -105,18 +105,6 @@ The custom CNN model consists of:
 - **Convolutional Layers**: Multiple Conv2D layers with ReLU activation and max pooling.
 - **Fully Connected Layers**: Dense layers for classification.
 
-### 3. Training
-To train the model, run:
-```bash
-python train.py
-```
-
-### 4. Evaluation
-To evaluate the model on the test set, run:
-```bash
-python evaluate.py
-```
-
 ---
 
 ## Training
