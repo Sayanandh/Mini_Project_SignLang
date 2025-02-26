@@ -1,8 +1,8 @@
-https://drive.google.com/drive/folders/1bwRNtQ3ntn2IlIXYEOhNQm6CMW0J_ZOM?usp=sharing
 # ASL Recognition using PyTorch
 
 This project is designed to recognize **American Sign Language (ASL)** gestures using a custom Convolutional Neural Network (CNN) implemented in **PyTorch**. The model is trained on a dataset of ASL images and can classify gestures into 35 categories (A-Z, space, del, and nothing).
 
+Dataset :- https://drive.google.com/drive/folders/1bwRNtQ3ntn2IlIXYEOhNQm6CMW0J_ZOM?usp=sharing
 ---
 
 ## Table of Contents
