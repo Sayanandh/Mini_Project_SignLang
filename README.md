@@ -186,11 +186,6 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-## Contact
-For questions or feedback, please contact:
-- **Your Name** - [your.email@example.com](mailto:your.email@example.com)
-- **GitHub**: [your-username](https://github.com/your-username)
-
 ---
 
 ## **How to Use**
