@@ -51,3 +51,8 @@ Follow these steps to set up the project on your local machine.
    ```bash
    git clone https://github.com/your-username/asl-recognition-pytorch.git
    cd asl-recognition-pytorch
+2 .Create a virtual environment:
+   ```bash
+   python -m venv .venv
+   .venv\Scripts\activate
+
