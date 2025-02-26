@@ -1,0 +1,11 @@
+# Core dependencies
+flask==2.3.2
+numpy==1.25.2
+pandas==2.0.3
+
+# Development dependencies
+pytest==7.4.0
+black==23.7.0
+
+# Other dependencies
+requests==2.31.0
